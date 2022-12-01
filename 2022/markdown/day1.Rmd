@@ -114,5 +114,5 @@ sum(top3$`sum(calories)`)
 
 Correct!
 
-Day 1 completed.
+Day 1 completed. Yay!
 
